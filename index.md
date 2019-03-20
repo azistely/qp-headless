@@ -58,8 +58,8 @@ page_sections:
     customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+  image: "/uploads/designs.PNG"
+  caption: All Available Design
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
