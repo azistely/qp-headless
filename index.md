@@ -62,7 +62,7 @@ page_sections:
   caption: All Available Blocks
 - template: simple-footer
   block: footer-1
-  content: 'Thanks! '
+  content: Thank you!
 
 ---
 foo bar
