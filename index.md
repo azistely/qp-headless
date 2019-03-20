@@ -17,7 +17,7 @@ page_sections:
     link_text: Team
   cta:
     url: https://qpsoftware.net/contact-us#block-block-29
-    button_text: Tell us about your project
+    button_text: Contact us
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
