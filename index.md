@@ -16,7 +16,7 @@ page_sections:
   - link: https://qpsoftware.net/they-talk-about-us
     link_text: Press
   cta:
-    url: https://qpsoftware.net/contact-us#block-block-29
+    url: https://qpsoftware.net/contact-us
     button_text: Contact us
 - template: hero-banner-w-image
   block: hero-2
