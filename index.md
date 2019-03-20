@@ -11,10 +11,10 @@ page_sections:
     link_text: Home
   - link: https://qpsoftware.net/featured
     link_text: Featured projects
-  - link: https://qpsoftware.net/they-talk-about-us
-    link_text: Press
   - link: https://qpsoftware.net/about-us
     link_text: Who we are
+  - link: https://qpsoftware.net/they-talk-about-us
+    link_text: Press
   cta:
     url: https://qpsoftware.net/contact-us#block-block-29
     button_text: Contact us
