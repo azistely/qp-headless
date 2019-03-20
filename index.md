@@ -20,8 +20,8 @@ page_sections:
     button_text: Contact us
 - template: hero-banner-w-image
   block: hero-2
-  headline: QPSoftware <br><strong>QP Foresty Jekyll theme</strong>
-  content: Live example of a Modular Forestry SGG website
+  headline: QPSoftware <br><strong>Modular Forestry Jekyll theme</strong>
+  content: Live example of a Modular Forestry Jekyll website deployed on AWS Amplify
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
