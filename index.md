@@ -11,8 +11,8 @@ page_sections:
     link_text: Home
   - link: https://qpsoftware.net/featured
     link_text: Featured projects
-  - link: "#"
-    link_text: Pricing
+  - link: https://qpsoftware.net/they-talk-about-us
+    link_text: Press
   - link: "#"
     link_text: Team
   cta:
