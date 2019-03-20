@@ -58,7 +58,7 @@ page_sections:
     customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/designs.PNG"
+  image: "/uploads/EDIT2-VERTEXCN.jpg"
   caption: All Available Blocks
 - template: simple-footer
   block: footer-1
