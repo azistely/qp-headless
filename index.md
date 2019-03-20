@@ -27,7 +27,7 @@ page_sections:
     url: https://qpsoftware.net/contact-us
     button_text: Tell us about your project
   image:
-    image: "/uploads/EDIT2-VERTEXCN.jpg"
+    image: "/uploads/designs.PNG"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature
