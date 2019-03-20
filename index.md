@@ -23,9 +23,9 @@ page_sections:
   headline: QPSoftware <br><strong>Modular Forestry Jekyll theme</strong>
   content: Live example of a Modular Forestry Jekyll website deployed on AWS Amplify
   cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    enabled: true
+    url: https://qpsoftware.net/contact-us
+    button_text: Tell us about your project
   image:
     image: "/uploads/EDIT2-VERTEXCN.jpg"
     alt_text: Product Shot
