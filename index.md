@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#"
-    link_text: Features
+  - link: https://qpsoftware.net/featured
+    link_text: Featured projects
   - link: "#"
     link_text: Pricing
   - link: "#"
