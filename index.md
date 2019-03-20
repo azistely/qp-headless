@@ -59,7 +59,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/designs.PNG"
-  caption: All Available Design
+  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
