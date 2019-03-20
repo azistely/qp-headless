@@ -29,7 +29,7 @@ page_sections:
   image:
     image: "/uploads/EDIT2-VERTEXCN.jpg"
     alt_text: Product Shot
-  background_image: "/uploads/EDIT2-VERTEXCN.jpg"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
