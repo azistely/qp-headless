@@ -1,5 +1,11 @@
 ---
 main:
+- url: https://qpsoftware.net/featured
+  weight: 3
+  title: Featured Projects
+- url: https://qpsoftware.net/they-talk-about-us
+  weight: 2
+  title: Press
 - identifier: home
   url: "/"
   weight: 1
