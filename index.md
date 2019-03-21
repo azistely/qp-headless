@@ -64,7 +64,7 @@ page_sections:
   caption: All Available Blocks
 - template: simple-footer
   block: footer-1
-  content: "<strong>Thanks!</strong>"
+  content: "<strong>Thank you!</strong>"
 
 ---
 foo bar
