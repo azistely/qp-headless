@@ -1,4 +1,5 @@
-<header class="block block-header-1">
+{% assign block_id = 'section' | append: forloop.index %}
+<header id="{{block_id}}" class="block block-header-1">
 
   <div class="block-header-1--logo">
     <a href="{{ site.url | relative_url }}">

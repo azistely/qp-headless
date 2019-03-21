@@ -1,4 +1,5 @@
-<footer class="block block-footer-1">
+{% assign block_id = 'section' | append: forloop.index %}
+<footer id="{{block_id}}" class="block block-footer-1">
   <div class="container">
     <p>{{ section.content }}</p>
   </div>
