@@ -23,7 +23,7 @@ page_sections:
   headline: QPSoftware <br><strong>Modular Jekyll theme Forestry blocks &amp; AWS
     Amplify</strong>
   content: Live example of a Modular Jekyll website with a Forestry blocks CMS deployed
-    on AWS Amplify
+    on AWS Amplify.
   cta:
     enabled: true
     url: https://qpsoftware.net/contact-us
