@@ -1,4 +1,5 @@
-<section class="block block-media-1">
+{% assign block_id = 'section-' | append: forloop.index %}
+<section id="{{block_id}}" class="block block-media-1">
   <div class="container">
     <figure>
       <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}">
