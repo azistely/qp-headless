@@ -20,8 +20,10 @@ page_sections:
     button_text: Contact us
 - template: hero-banner-w-image
   block: hero-2
-  headline: QPSoftware <br><strong>Modular Forestry Jekyll theme</strong>
-  content: Live example of a Modular Forestry Jekyll website deployed on AWS Amplify
+  headline: QPSoftware <br><strong>Modular Jekyll theme Forestry blocks &amp; AWS
+    Amplify</strong>
+  content: Live example of a Modular Jekyll website with a Forestry blocks CMS deployed
+    on AWS Amplify
   cta:
     enabled: true
     url: https://qpsoftware.net/contact-us
