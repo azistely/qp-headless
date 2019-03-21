@@ -1,7 +1,7 @@
 {% if section.media_alignment and section.media_alignment == "Left" %}
 {% include block-feature-2.html %}
 {% else %}
-{% assign block_id = 'section-' | append: forloop.index %}
+{% assign block_id = 'section' | append: forloop.index %}
 <section id="{{block_id}}" class="block block-feature-1">
   <div class="container">
     <div class="columns">
