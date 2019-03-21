@@ -1,4 +1,5 @@
-<section id="{{section.id}}" class="block block-hero-2" 
+{% assign block_id = 'section-' | append: forloop.index %}
+<section id="{{block_id}}" class="block block-hero-2" 
 {% if section.background_image %}
 style="background-image: url('{{ section.background_image | relative_url }}')"
 {% endif %}>
